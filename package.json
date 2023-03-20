@@ -32,5 +32,13 @@
     "path": "^0.12.7",
     "socket.io": "^4.6.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilaIrigoyen/Clase30-servidor-con-balance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CamilaIrigoyen/Clase30-servidor-con-balance/issues"
+  },
+  "homepage": "https://github.com/CamilaIrigoyen/Clase30-servidor-con-balance#readme",
   "description": ""
 }
